@@ -1,0 +1,14 @@
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\bin\Debug\net8.0\ConsoleHostesAssistent.exe
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\bin\Debug\net8.0\ConsoleHostesAssistent.deps.json
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\bin\Debug\net8.0\ConsoleHostesAssistent.runtimeconfig.json
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\bin\Debug\net8.0\ConsoleHostesAssistent.dll
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\bin\Debug\net8.0\ConsoleHostesAssistent.pdb
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.AssemblyInfoInputs.cache
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.AssemblyInfo.cs
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.csproj.CoreCompileInputs.cache
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.dll
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\refint\ConsoleHostesAssistent.dll
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.pdb
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ConsoleHostesAssistent.genruntimeconfig.cache
+E:\Элина\Projects\ConsoleHostesAssistent\ConsoleHostesAssistent\obj\Debug\net8.0\ref\ConsoleHostesAssistent.dll
